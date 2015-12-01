@@ -1,2 +1,5 @@
 Options Indexes FollowSymLinks
 DirectoryIndex index.php
+
+# изменение в настройках php через htaccess
+#php_flag asp_tags on
